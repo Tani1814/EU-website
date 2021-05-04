@@ -1,2 +1,2 @@
 # EU-website
-I used html and css.It is a basic project.
+I used html.It is a basic project.
